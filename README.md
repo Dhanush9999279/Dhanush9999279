@@ -24,5 +24,5 @@ Git, Linux/macOS, VS Code
 
 ## 📫 Contact
 
-- Email: your_email_here
+- Email: dhanush3699999@gmail.com
 - LinkedIn: link_here
