@@ -1,16 +1,28 @@
-## Hi there 👋
+# Aleti Dhanush
 
-<!--
-**Dhanush9999279/Dhanush9999279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IIT Madras · AI + Systems builder  
+Orbit mechanics, RAG systems, autonomous agents.
 
-Here are some ideas to get you started:
+## 🚀 Flagship projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **OrbitalMind** – Streamlit + poliastro mission-design copilot  
+  Low Earth orbit explorer, Hohmann transfer planner, clean UI.
+
+- **My RAG Project** – Local RAG system with custom retrieval  
+  Free local models, cosine similarity from scratch, Streamlit UI.
+
+## 🧠 Interests
+
+- AI for Science and Space
+- Autonomous agents and tools
+- High-performance Python & systems
+
+## 🛠️ Tech stack
+
+Python, Streamlit, NumPy, pandas, Astropy, poliastro  
+Git, Linux/macOS, VS Code
+
+## 📫 Contact
+
+- Email: your_email_here
+- LinkedIn: link_here
